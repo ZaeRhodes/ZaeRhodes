@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ZaeRhodes
-- 👀 I’m interested in becoming a Software Engineer!
+- 😎 Hi, I’m Isaiah Rhodes
+- 👀 I’m working towards becoming a Software Engineer!
 - 🌱 I’m currently studying Software Engineering at Western Governors University!
 - 👨🏾‍💻 Willing to collaborate on any projects.
 - 📫 Reach me @ Isaiahrhodes54@gmail.com
