@@ -1,9 +1,18 @@
-- 😎 Hi, I’m Isaiah Rhodes
-- 👀 Junior Software Engineer!
-- 📚 Currently studying Software Engineering at Western Governors University!
-- 👨🏾‍💻 Willing to collaborate on any projects.
-- 📫 Reach me @ Isaiahrhodes54@gmail.com
-<!---
-ZaeRhodes/ZaeRhodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>Hi, I'm Isaiah Rhodes! </h1>
+
+<h2>👨‍💻 Software Engineering Projects:</h2>
+
+- <b>
+- <b>
+- <b>
+- <b>
+- <b>
+
+<h2>📄Certifications </h2>
+
+- [Google It Support Professional](https://www.credly.com/badges/01cb2cbb-2b69-4aca-9a5d-c8c4093bbcc2/public_url)
+-
+-
+-
+
+
