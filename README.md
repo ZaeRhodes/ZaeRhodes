@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
-- <b> (Currently Building)
+- <b> (In Progress)
 - <b>
 - <b>
 - <b>
